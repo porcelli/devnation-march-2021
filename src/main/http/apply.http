@@ -1,0 +1,4 @@
+POST http://localhost:8080/application/apply
+content-type: application/json
+
+{"id":"1","age":20,"name":"alex"}
