@@ -1,4 +1,4 @@
-package me.porcelli.devnation.demo;
+package me.porcelli.devnation.kogito;
 
 public class Applicant {
 
