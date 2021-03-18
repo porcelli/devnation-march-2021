@@ -1,0 +1,11 @@
+POST http://localhost:8080/application
+content-type: application/json
+
+{
+    "Applicant":
+    {
+        "age":16,
+        "id":"1",
+        "name":"AlexP"
+    }
+}
